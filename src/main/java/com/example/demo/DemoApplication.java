@@ -22,7 +22,7 @@ public class DemoApplication {
 
     @RequestMapping("/")
     String ciaoMondo() {
-        return "ciaoMondo!";
+        return "fabri sei la mia cagna, giorgio il mio cane,marcello suca e Omar gay!";
     }
 
     @RequestMapping("/test")
